@@ -8,4 +8,4 @@ Colour: Green
 
 Fav. Language: English
 
-Restaurants: Any Greek Food Restaurants
+Restaurants: Achillion (Greek Restaurant)
